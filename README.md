@@ -30,7 +30,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-- I learnt in html alt tags the word 'image' or 'picture' should not be used but rather a description of the image content.
+- I learnt in the html alt attribute, the word 'image' or 'picture' should not be used but rather a description of the image content.
 
 ## Author
 
